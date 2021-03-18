@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "725169685266",
+    "firebase_url": "https://sewamobil-9c260-default-rtdb.firebaseio.com",
+    "project_id": "sewamobil-9c260",
+    "storage_bucket": "sewamobil-9c260.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725169685266:android:fa921c194e00d00fdc29cb",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725169685266-qkcdqr2bkf5sf11un9hk3fvdjo60k4j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcpbp6Yjl8naiBZaimsgMzC20H3ta8JjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725169685266-qkcdqr2bkf5sf11un9hk3fvdjo60k4j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725169685266:android:6c7748139c578a76dc29cb",
+        "android_client_info": {
+          "package_name": "com.ptkasuari.sewamobil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725169685266-qkcdqr2bkf5sf11un9hk3fvdjo60k4j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcpbp6Yjl8naiBZaimsgMzC20H3ta8JjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725169685266-qkcdqr2bkf5sf11un9hk3fvdjo60k4j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
