@@ -104,9 +104,10 @@ public class MainActivity extends AppCompatActivity {
                                                             });
 
                                         }
-                                        PD.dismiss();
+
                                     }
                                 });
+                        PD.dismiss();
                     }
                     else {
                         Toast.makeText(getApplicationContext(),

@@ -11,7 +11,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.SewaMobil2">
-        <activity android:name=".Homepage"></activity>
+        <activity android:name=".Booking"></activity>
+        <activity android:name=".Homepage" />
         <activity android:name=".Register" />
         <activity android:name=".MainActivity">
             <intent-filter>
